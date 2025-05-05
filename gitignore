@@ -1,0 +1,32 @@
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Data files (if large and should not be pushed)
+dataset/*.csv
+*.zip
+
+# Environment files
+.env
+.venv/
+venv/
+ENV/
+
+# Mac system files
+.DS_Store
+
+# VSCode settings
+.vscode/
+
+# Python virtual environment
+*.egg-info/
+dist/
+build/
+
+# Log files
+*.log
